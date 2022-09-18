@@ -34,5 +34,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <p>Have a great Weekend.</p>
+   <p>All the very best for your interview.</p>
   
 </form>
