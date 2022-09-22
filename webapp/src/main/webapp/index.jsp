@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning 19-September-2022 </h1>
+    <h1>New user Register for DevOps Learning 22-September-2022 </h1>
     <p>Please fill in this form to create an account.</p>
     <p>Please feel to contact incase of any issues.</p>
     <hr>
@@ -34,6 +34,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <p>Have a great Weekend.</p>
-   <p>All the very best for your interview.</p>
+   <p>Please proceed within 2 days from the date of registeration in order to avoid the account to enter in dormant list.</p>
   
 </form>
